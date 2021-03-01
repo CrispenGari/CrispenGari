@@ -105,7 +105,7 @@
 
 <h1>Welcome To Crispen Gari's Github😄</h1>
 
-<div class="crispen">
+<div class="crispen" style=" display: flex; padding: 5px !important ; border-radius: 5px; margin: 10px !important; justify-content: space-around; user-select: none; user-zoom: none; flex-direction:column; align-items: center;">
 <h3>Languages and Frameworks</h3>
 <div class="crispen__left">
 
