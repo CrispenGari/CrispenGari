@@ -1,11 +1,11 @@
 # 🔥 Hello, Everyone 👋🔥
 
-<h1>Welcome To Crispen Gari's Github😄</h1>
+<h1 align="center">Welcome To Crispen Gari's Github😄</h1>
 
 <div class="crispen" style=" display: flex; padding: 5px !important ; border-radius: 5px; margin: 10px !important; justify-content: space-around; user-select: none; user-zoom: none; flex-direction:column; align-items: center;">
 
-<h3>Languages and Frameworks</h3>
-
+<h3 align="center">Languages and Frameworks</h3>
+<div align="center">
 <img align='center' width="30px" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
 <img align='center' width="30px" alt="GitHub" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />
 <img align='center' width="30px" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -38,7 +38,10 @@
 <img align='center' width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="Github"/>
 <img align='center' width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="Github"/>
 <img align='center' width="30px" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="GitHub"/>
-
+</div>
+<br/>
+<br/>
+<img align='center' width="300" src="dance.gif" alt="GitHub"/>
 <div align="center">
 ### ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
  
