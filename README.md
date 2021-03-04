@@ -38,11 +38,16 @@
 <img align='center' width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="Github"/>
 <img align='center' width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="Github"/>
 <img align='center' width="30px" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="GitHub"/>
+
 </div>
 <br/>
 <br/>
+
 <img align='center' width="300" src="dance.gif" alt="GitHub"/>
+<img align='center' width="300" src="meditation.gif" alt="GitHub"/>
 <div align="center">
+<br/>
+<br/>
 ### ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
  
 ### "❤Eating API's as breakfast preparing for Intelligence and Learning in❤ Java ✔JavaScript✔Node✔ C++/C✔ Python✔ PHP✔ TypeScript✔"
