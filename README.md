@@ -1,5 +1,11 @@
 # 🔥 Hello, Everyone 👋🔥
 
+# <<<<<<< HEAD
+
+<h1>Welcome To Crispen Gari's Github😄</h1>
+
+<div class="crispen" style=" display: flex; padding: 5px !important ; border-radius: 5px; margin: 10px !important; justify-content: space-around; user-select: none; user-zoom: none; flex-direction:column; align-items: center;">
+>>>>>>> 8adf2cbaf5e9215458370707fbaff99b8d5af9e3
 <h3>Languages and Frameworks</h3>
 
 <img align='center' width="30px" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
@@ -35,4 +41,12 @@
 <img align='center' width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="Github"/>
 <img align='center' width="30px" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="GitHub"/>
 
-<img src="./dance.gif" align='center' alt="GitHub" width="200px"/>
+<div align="center">
+### ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
+ 
+### "❤Eating API's as breakfast preparing for Intelligence and Learning in❤ Java ✔JavaScript✔Node✔ C++/C✔ Python✔ PHP✔ TypeScript✔"
+
+<h2>Connect with me!</h2>
+ 
+ [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/GariCrispen)
+</div>
