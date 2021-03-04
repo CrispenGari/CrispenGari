@@ -42,9 +42,10 @@
 </div>
 <br/>
 <br/>
-
+<div align="center">
 <img align='center' width="300" src="dance.gif" alt="GitHub"/>
 <img align='center' width="300" src="meditation.gif" alt="GitHub"/>
+</div>
 <div align="center">
 <br/>
 <br/>
