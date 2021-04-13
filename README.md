@@ -1,7 +1,7 @@
 ### Hello 👋
 
 <p>
-An undergraduate computer science student who's interested in learning more about technology. Infinity love for Computer Vision, Data Science, Machine Learning, Deep Learning, AI and Full stack development using different techs.
+An undergraduate computer science student who's interested in learning more about technology. Infinity love for Computer Vision, Data Science, Machine Learning, Deep Learning, AI, Natural Language Processing and Full stack development using different techs.
 </p>
 
 #### Top Languages
