@@ -48,17 +48,7 @@ An undergraduate computer science student who's interested in learning more abou
 
 
 [![crispen's github stats](https://github-readme-stats.vercel.app/api?username=crispengari&theme=dark&show_icons=true)](https://github.com/crispengari)
- 
- 
-[![crispen's github stats](https://github-readme-stats.vercel.app/api/pin/?username=crispengari&repo=awesome-bd-readme-profile&theme=dark)](https://github.com/crispengari/)
-<br/>
-<br/>
-<div align="center">
-<img align='center' width="200" src="dance.gif" alt="GitHub"/>
-<img align='center' width="200" src="meditation.gif" alt="GitHub"/>
-</div>
-<div align="center">
-<br/>
+
 <br/>
 
 ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨
