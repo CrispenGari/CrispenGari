@@ -1,5 +1,7 @@
 ### Hello 👋
 
+<img width="100%" src="https://trr83nfdlr-flywheel.netdna-ssl.com/wp-content/uploads/2020/05/Predictor_optimized.gif" alt="Crispen Gari"/>
+
 <p>
 An undergraduate computer science student who's interested in learning more about technology. Infinity love for Computer Vision, Data Science, Machine Learning, Deep Learning, AI, Natural Language Processing and Full stack development using different techs.
 </p>
@@ -57,10 +59,7 @@ An undergraduate computer science student who's interested in learning more abou
 <a href="https://github.com/CrispenGari?tab=repositories"><img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrispenGari&layout=compact&langs_count=6&theme=white" alt="Top Languages"/></a>
 
 
-<!--<a href="https://wakatime.com/@crispengari"><img align="center" width="56%" src="https://github-readme-stats.vercel.app/api/wakatime?username=crispengari&layout=compact&theme=algolia&custom_title=Crispen's Wakatime Stats" 
-alt="Crispen's Wakatime Stats"/></a>
--->
-
+<br/>
 
 ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨
 
