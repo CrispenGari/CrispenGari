@@ -47,8 +47,8 @@ An undergraduate computer science student who's interested in learning more abou
 </p>
 
 <div class="crispen" style="">
-[![crispen's github stats](https://github-readme-stats.vercel.app/api?username=crispengari&theme=dark&show_icons=true)](https://github.com/moshfiqrony)
-[![crispen's github stats](https://github-readme-stats.vercel.app/api/pin/?username=crispengari&repo=awesome-bd-readme-profile&theme=dark)](https://github.com/moshfiqrony/awesome-bd-readme-profile)
+[![crispen's github stats](https://github-readme-stats.vercel.app/api?username=crispengari&theme=dark&show_icons=true)](https://github.com/crispengari)
+[![crispen's github stats](https://github-readme-stats.vercel.app/api/pin/?username=crispengari&repo=awesome-bd-readme-profile&theme=dark)](https://github.com/crispengari/awesome-bd-readme-profile)
 </div>
 <br/>
 <br/>
