@@ -14,7 +14,7 @@ An undergraduate computer science student who's interested in learning more abou
  <!---[![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/crispengari/)](https://twitter.com/CrispenGari/)
 [![Facebook Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/crispengari/)](https://www.facebook.com/in/crispengari/)
 [![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crispengari/)](https://www.linkedin.com/in/crispengari/)
-[![Instagram Badge](https://img.shields.io/badge/instagram?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/crispengari/)](https://instagram.com/crispengari)
+[![Instagram Badge](https://img.shields.io/badge/instagram?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/crispengari/)](https://instagram.com/crispengari)
 --->
 
 #### Top Languages and Frameworks
@@ -58,10 +58,14 @@ An undergraduate computer science student who's interested in learning more abou
 <img src="https://img.shields.io/static/v1?label=liked-most&message=nltk&color=blue"/>
 <img src="https://img.shields.io/static/v1?label=liked-most&message=jupyter-notebook&color=brightgreen"/>
 </p>
+
+#### ✨ GitHub Stats ✨
+
 <a href="https://github.com/crispengari?tab=repositories"><img align="center" width="56%" src="https://github-readme-stats.vercel.app/api?username=crispengari&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=white" alt="Gari's github stats" /></a>
 <a href="https://github.com/CrispenGari?tab=repositories"><img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrispenGari&layout=compact&langs_count=6&theme=white" alt="Top Languages"/></a>
 
 
+<br/>
 <br/>
 
 ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨
