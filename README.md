@@ -1,12 +1,14 @@
 ### Hello 👋
 
-<img width="100%" src="https://trr83nfdlr-flywheel.netdna-ssl.com/wp-content/uploads/2020/05/Predictor_optimized.gif" alt="Crispen Gari"/>
-
 <p>
 An undergraduate computer science student who's interested in learning more about technology. Infinity love for Computer Vision, Data Science, Machine Learning, Deep Learning, AI, Natural Language Processing and Full stack development using different techs.
 </p>
 
 #### Connect with me
+
+[<img src = "https://img.shields.io/badge/aakarshteja-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/aakarshteja)
+[<img src = "https://img.shields.io/badge/aakarshteja-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/aakarsh.teja)
+[<img src = "https://img.shields.io/badge/Instagram-%40crispengari-purple?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/crispengari/)
 
  <!---[![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/crispengari/)](https://twitter.com/CrispenGari/)
 [![Facebook Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/crispengari/)](https://www.facebook.com/in/crispengari/)
