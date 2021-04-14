@@ -3,6 +3,7 @@
 <p>
 An undergraduate computer science student who's interested in learning more about technology. Infinity love for Computer Vision, Data Science, Machine Learning, Deep Learning, AI, Natural Language Processing and Full stack development using different techs.
 </p>
+
 #### Connect with me
 
  <!---[![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/crispengari/)](https://twitter.com/CrispenGari/)
@@ -57,6 +58,15 @@ An undergraduate computer science student who's interested in learning more abou
 [![crispen's github stats](https://github-readme-stats.vercel.app/api?username=crispengari&theme=dark&show_icons=true)](https://github.com/crispengari)
 
 <br/>
+
+<a href="https://github.com/crispengari?tab=repositories"><img align="center" width="56%" src="https://github-readme-stats.vercel.app/api?username=crispengari&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=algolia" alt="Gari's github stats" /></a>
+<a href="https://github.com/CrispenGari?tab=repositories"><img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrispenGari&layout=compact&langs_count=6&theme=algolia" alt="Top Languages"/></a>
+
+
+<a href="https://wakatime.com/@crispengari"><img align="center" width="56%" src="https://github-readme-stats.vercel.app/api/wakatime?username=crispengari&layout=compact&theme=algolia&custom_title=Crispen's Wakatime Stats" 
+alt="Crispen's Wakatime Stats"/></a>
+
+
 
 ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨
 
