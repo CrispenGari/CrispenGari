@@ -53,8 +53,8 @@ An undergraduate computer science student who's interested in learning more abou
 <img src="https://img.shields.io/static/v1?label=liked-most&message=nltk&color=blue"/>
 <img src="https://img.shields.io/static/v1?label=liked-most&message=jupyter-notebook&color=brightgreen"/>
 </p>
-<a href="https://github.com/crispengari?tab=repositories"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=crispengari&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=dark" alt="Gari's github stats" /></a>
-<a href="https://github.com/CrispenGari?tab=repositories"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrispenGari&layout=compact&langs_count=6&theme=dark" alt="Top Languages"/></a>
+<a href="https://github.com/crispengari?tab=repositories"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=crispengari&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=dark" alt="Gari's github stats" /></a>
+<a href="https://github.com/CrispenGari?tab=repositories"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrispenGari&layout=compact&langs_count=6&theme=dark" alt="Top Languages"/></a>
 
 
 <!--<a href="https://wakatime.com/@crispengari"><img align="center" width="56%" src="https://github-readme-stats.vercel.app/api/wakatime?username=crispengari&layout=compact&theme=algolia&custom_title=Crispen's Wakatime Stats" 
