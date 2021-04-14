@@ -5,11 +5,10 @@ An undergraduate computer science student who's interested in learning more abou
 </p>
 #### Connect with me
 
- [![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/CrispenGari/)
-[![Facebook Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/moshfiqrony/)](https://www.facebook.com/in/crispengari/)
-[![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/crispengari/)
-[![Gmail Badge](https://img.shields.io/badge/-15203012@iubat.edu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:crispengari@gmail.com)](mailto:crispengari@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-moshfiqrony-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/crispengari)
+ [![Twitter Badge](https://img.shields.io/badge/blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/crispengari/)](https://twitter.com/CrispenGari/)
+[![Facebook Badge](https://img.shields.io/badge/blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/crispengari/)](https://www.facebook.com/in/crispengari/)
+[![Linkedin Badge](https://img.shields.io/badge/blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crispengari/)](https://www.linkedin.com/in/crispengari/)
+[![Instagram Badge](https://img.shields.io/badge/purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/crispengari/)](https://instagram.com/crispengari)
 
 #### Top Languages and Frameworks
 
