@@ -6,8 +6,9 @@ An undergraduate computer science student who's interested in learning more abou
 
 #### Connect with me
 
-[<img src = "https://img.shields.io/badge/aakarshteja-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/aakarshteja)
-[<img src = "https://img.shields.io/badge/aakarshteja-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/aakarsh.teja)
+[<img src = "https://img.shields.io/badge/LinkedIn-%40crispengari-blue?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/crispen-gari-34437720b/)
+[<img src = "https://img.shields.io/badge/Twitter-%40crispengari-blue?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/crispengari)
+[<img src = "https://img.shields.io/badge/Facebook-%40crispengari-blue?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/crispengari)
 [<img src = "https://img.shields.io/badge/Instagram-%40crispengari-purple?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/crispengari/)
 
  <!---[![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/crispengari/)](https://twitter.com/CrispenGari/)
