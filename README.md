@@ -46,10 +46,11 @@ An undergraduate computer science student who's interested in learning more abou
 <img src="https://img.shields.io/static/v1?label=liked-most&message=jupyter-notebook&color=brightgreen"/>
 </p>
 
-<div class="crispen" style="">
+
 [![crispen's github stats](https://github-readme-stats.vercel.app/api?username=crispengari&theme=dark&show_icons=true)](https://github.com/crispengari)
+ 
+ 
 [![crispen's github stats](https://github-readme-stats.vercel.app/api/pin/?username=crispengari&repo=awesome-bd-readme-profile&theme=dark)](https://github.com/crispengari/awesome-bd-readme-profile)
-</div>
 <br/>
 <br/>
 <div align="center">
