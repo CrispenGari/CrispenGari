@@ -71,18 +71,28 @@ An undergraduate computer science student who's interested in learning more abou
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=Opencv-Python&theme=radical" />
 </a> -->
 <a href="https://github.com/CrispenGari/python-and-mongodb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=python-and-mongodb&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=python-and-mongodb&theme=white" />
 </a>    
 <a href="https://github.com/CrispenGari/Optical-Character-Recognition-Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=Optical-Character-Recognition-Python&theme=radical" />
-</a>    
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=Optical-Character-Recognition-Python&theme=white" />
+</a>
+
+<a href="https://github.com/CrispenGari/Sport-Engine-Next.ts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=Sport-Engine-Next.ts&theme=white" />
+</a>
+
+<a href="https://github.com/CrispenGari/github-users-vue3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=github-users-vue3-Python&theme=white" />
+</a>
+
+
 <br/>
 
 #### Connect with me
 
 |                                                                                                                                                                                                        <a href="https://CrispenGari.github.io/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a>                                                                                                                                                                                                        |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                                                                                                                                                             **[Crispen Gari](https://linktr.ee/hritikdj)**                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                             **[Crispen Gari](https://crispengari-9acaa.web.app/)**                                                                                                                                                                                                                                                              |
 | <a href="https://twitter.com/crispengari"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/crispengari"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/crispengari"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/crispen-gari-34437720b/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/crispengari/"><img src="https://www.pngitem.com/pimgs/m/461-4618525_ig-small-instagram-logo-2019-hd-png-download.png" width="32px" height="32px"></a>|
 
 ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨
