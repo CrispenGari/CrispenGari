@@ -55,7 +55,7 @@ An undergraduate computer science student who's interested in learning more abou
 <a href="https://github.com/CrispenGari?tab=repositories"><img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrispenGari&layout=compact&langs_count=6&theme=white" alt="Top Languages"/></a>
 
 
-### Current Projets
+### 3hrs of Code
 
 <!-- <a href="https://github.com/CrispenGari/infinite-shop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=infinite-shop&theme=radical" />
