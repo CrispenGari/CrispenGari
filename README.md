@@ -82,7 +82,7 @@ An undergraduate computer science student who's interested in learning more abou
 </a>
 
 <a href="https://github.com/CrispenGari/github-users-vue3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=github-users-vue3-Python&theme=white" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=github-users-vue3&theme=white" />
 </a>
 
 
