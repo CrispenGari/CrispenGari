@@ -57,7 +57,7 @@ An undergraduate computer science student who's interested in learning more abou
 
 ### Current Projets
 
-<a href="https://github.com/CrispenGari/infinite-shop">
+<!-- <a href="https://github.com/CrispenGari/infinite-shop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=infinite-shop&theme=radical" />
 </a>    
 <a href="https://github.com/CrispenGari/IG-clone-Vue2">
@@ -69,11 +69,11 @@ An undergraduate computer science student who's interested in learning more abou
 
 <a href="https://github.com/CrispenGari/Opencv-Python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=Opencv-Python&theme=radical" />
-</a> 
+</a> -->
 <a href="https://github.com/CrispenGari/python-and-mongodb">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=python-and-mongodb&theme=radical" />
 </a>    
-<a href="https://github.com/CrispenGari/nltk-python">
+<a href="https://github.com/CrispenGari/Optical-Character-Recognition-Python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=nltk-python&theme=radical" />
 </a>    
 <br/>
