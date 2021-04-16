@@ -55,6 +55,15 @@ An undergraduate computer science student who's interested in learning more abou
 <a href="https://github.com/CrispenGari?tab=repositories"><img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrispenGari&layout=compact&langs_count=6&theme=white" alt="Top Languages"/></a>
 
 
+### Current Projets
+
+<a href="https://github.com/ShyamPraveenSingh/Weather-Forecast-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShyamPraveenSingh&repo=Weather-Forecast-App&theme=radical" />
+</a>    
+
+<a href="https://github.com/ShyamPraveenSingh/School-Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShyamPraveenSingh&repo=School-Website&theme=radical" />
+</a>
 <br/>
 
 #### Connect with me
