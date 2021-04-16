@@ -1,16 +1,13 @@
 ### Hello 👋
 
+<p align="center"><img src="https://i.ibb.co/S3FwFX7/Developer.jpg" alt="Developer" border="0"></p>
 <p>
 An undergraduate computer science student who's interested in learning more about technology. Infinity love for Computer Vision, Data Science, Machine Learning, Deep Learning, AI, Natural Language Processing and Full stack development using different techs.
+
+⚡ Fun fact about me: ✨ I love coding+eating+repeating✨
+
+"❤Eating API's as breakfast preparing for Intelligence and Learning in❤ Java ✔JavaScript✔Node✔ C++/C✔ Python✔ PHP✔ TypeScript✔"
 </p>
-
-#### Connect with me
-
-|                                                                                                                                                                                                        <a href="https://CrispenGari.github.io/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a>                                                                                                                                                                                                        |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                                                                                                                                                             **[Crispen Gari](https://linktr.ee/hritikdj)**                                                                                                                                                                                                                                                              |
-| <a href="https://twitter.com/crispengari"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/crispengari"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/crispengari"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/crispen-gari-34437720b/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/crispengari/"><img src="https://www.pngitem.com/pimgs/m/461-4618525_ig-small-instagram-logo-2019-hd-png-download.png" width="32px" height="32px"></a>|
-
 
 #### Top Languages and Frameworks
 
@@ -61,10 +58,12 @@ An undergraduate computer science student who's interested in learning more abou
 
 
 <br/>
-<br/>
 
-⚡ Fun fact about me: ✨ I love coding+eating+repeating✨
+#### Connect with me
 
-"❤Eating API's as breakfast preparing for Intelligence and Learning in❤ Java ✔JavaScript✔Node✔ C++/C✔ Python✔ PHP✔ TypeScript✔"
+|                                                                                                                                                                                                        <a href="https://CrispenGari.github.io/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a>                                                                                                                                                                                                        |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                                                                                                                                                             **[Crispen Gari](https://linktr.ee/hritikdj)**                                                                                                                                                                                                                                                              |
+| <a href="https://twitter.com/crispengari"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/crispengari"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/crispengari"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/crispen-gari-34437720b/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/crispengari/"><img src="https://www.pngitem.com/pimgs/m/461-4618525_ig-small-instagram-logo-2019-hd-png-download.png" width="32px" height="32px"></a>|
 
-<hr/>
+
