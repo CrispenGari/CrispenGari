@@ -74,7 +74,7 @@ An undergraduate computer science student who's interested in learning more abou
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=python-and-mongodb&theme=radical" />
 </a>    
 <a href="https://github.com/CrispenGari/Optical-Character-Recognition-Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=nltk-python&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=Optical-Character-Recognition-Python&theme=radical" />
 </a>    
 <br/>
 
