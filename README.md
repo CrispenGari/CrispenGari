@@ -3,8 +3,8 @@
 An undergraduate computer science student who's interested in learning more about technology. Infinity love for Computer Vision, Data Science, Machine Learning, Deep Learning, AI, Natural Language Processing and Full stack development using different techs.
 </p>
 <p align="left">
-  <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" width=400 height=340>
-  <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/new.gif" height=340/>
+  <img src="https://github.com/CrispenGari/CrispenGari/blob/main/me.gif" width=400 height=340>
+  <img src="https://github.com/CrispenGari/CrispenGari/blob/main/new.gif" height=340/>
 </p>
 
 #### Top Languages and Frameworks
@@ -57,13 +57,25 @@ An undergraduate computer science student who's interested in learning more abou
 
 ### Current Projets
 
-<a href="https://github.com/ShyamPraveenSingh/Weather-Forecast-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShyamPraveenSingh&repo=Weather-Forecast-App&theme=radical" />
+<a href="https://github.com/CrispenGari/infinite-shop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=infinite-shop&theme=radical" />
+</a>    
+<a href="https://github.com/CrispenGari/IG-clone-Vue2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=IG-clone-Vue2&theme=radical" />
+</a>    
+<a href="https://github.com/CrispenGari/like-me-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=like-me-App&theme=radical" />
 </a>    
 
-<a href="https://github.com/ShyamPraveenSingh/School-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShyamPraveenSingh&repo=School-Website&theme=radical" />
-</a>
+<a href="https://github.com/CrispenGari/Opencv-Python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=Opencv-Python&theme=radical" />
+</a> 
+<a href="https://github.com/CrispenGari/python-and-mongodb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=python-and-mongodb&theme=radical" />
+</a>    
+<a href="https://github.com/CrispenGari/nltk-python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=nltk-python&theme=radical" />
+</a>    
 <br/>
 
 #### Connect with me
