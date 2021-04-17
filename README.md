@@ -68,21 +68,21 @@ An undergraduate computer science student who's interested in learning more abou
 </a>    
 
 <a href="https://github.com/CrispenGari/Opencv-Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=Opencv-Python&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=Opencv-Python&theme=dark" />
 </a> -->
 <a href="https://github.com/CrispenGari/python-and-mongodb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=python-and-mongodb&theme=white" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=python-and-mongodb&theme=dark" />
 </a>    
 <a href="https://github.com/CrispenGari/Optical-Character-Recognition-Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=Optical-Character-Recognition-Python&theme=white" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=Optical-Character-Recognition-Python&theme=dark" />
 </a>
 
 <a href="https://github.com/CrispenGari/Sport-Engine-Next.ts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=Sport-Engine-Next.ts&theme=white" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=Sport-Engine-Next.ts&theme=dark" />
 </a>
 
 <a href="https://github.com/CrispenGari/github-users-vue3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=github-users-vue3&theme=white" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=github-users-vue3&theme=dark" />
 </a>
 
 
