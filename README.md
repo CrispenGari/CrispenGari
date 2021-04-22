@@ -9,7 +9,7 @@ An undergraduate computer science student who's interested in learning more abou
 
 #### Top Languages and Frameworks
 
-<p align="start">
+<p align="center">
 <img src="https://img.shields.io/static/v1?label=language&message=python&color=green"/>
 <img src="https://img.shields.io/static/v1?label=language&message=javascript&color=orange"/>
 <img src="https://img.shields.io/static/v1?label=language&message=typescript&color=blue"/>
@@ -33,7 +33,7 @@ An undergraduate computer science student who's interested in learning more abou
 
 #### Databases and Interests
 
-<p align="start">
+<p align="center">
 <img src="https://img.shields.io/static/v1?label=database&message=firebase&color=orange"/>
 <img src="https://img.shields.io/static/v1?label=database&message=mongodb&color=green"/>
 <img src="https://img.shields.io/static/v1?label=database&message=sql&color=success"/>
