@@ -4,9 +4,10 @@ An undergraduate computer science student who's interested in learning more abou
 </p>
 
 
-  <code align="center" width="90%">
+  <code align="center">
     "Everything should be made as simple as possible, but not simpler" — ALBERT EINSTEIN
    <code/>
+  <br/>
 
 <p align="left">
   <img src="https://github.com/CrispenGari/CrispenGari/blob/main/me.gif" width=400 height=340>
@@ -107,6 +108,6 @@ An undergraduate computer science student who's interested in learning more abou
 
 > ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨
 
->  "❤Eating API's as breakfast preparing for Intelligence and Learning in❤ Java ✔JavaScript✔Node✔ C++/C✔ Python✔ PHP✔ TypeScript✔"
+"❤Eating API's as breakfast preparing for Intelligence and Learning in❤ Java ✔JavaScript✔Node✔ C++/C✔ Python✔ PHP✔ TypeScript✔"
 
 
