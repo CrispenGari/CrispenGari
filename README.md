@@ -2,14 +2,20 @@
 <p >
 An undergraduate computer science student who's interested in learning more about technology. Infinity love for Computer Vision, Data Science, Machine Learning, Deep Learning, AI, Natural Language Processing and Full stack development using different techs.
 </p>
+
+<p align="center">
+  <code>
+    "Everything should be made as simple as possible, but not simpler" —ALBERT EINSTEIN
+   <code/>
+ </p>
 <p align="left">
   <img src="https://github.com/CrispenGari/CrispenGari/blob/main/me.gif" width=400 height=340>
   <img src="https://github.com/CrispenGari/CrispenGari/blob/main/new.gif" height=340/>
 </p>
 
-#### Top Languages and Frameworks
+#### Languages and Frameworks
 
-<p align="center">
+<p >
 <img src="https://img.shields.io/static/v1?label=language&message=python&color=green"/>
 <img src="https://img.shields.io/static/v1?label=language&message=javascript&color=orange"/>
 <img src="https://img.shields.io/static/v1?label=language&message=typescript&color=blue"/>
@@ -33,7 +39,7 @@ An undergraduate computer science student who's interested in learning more abou
 
 #### Databases and Interests
 
-<p align="center">
+<p >
 <img src="https://img.shields.io/static/v1?label=database&message=firebase&color=orange"/>
 <img src="https://img.shields.io/static/v1?label=database&message=mongodb&color=green"/>
 <img src="https://img.shields.io/static/v1?label=database&message=sql&color=success"/>
@@ -46,6 +52,7 @@ An undergraduate computer science student who's interested in learning more abou
 <img src="https://img.shields.io/static/v1?label=liked-most&message=keras&color=red"/>
 <img src="https://img.shields.io/static/v1?label=liked-most&message=pytorch&color=green"/>
 <img src="https://img.shields.io/static/v1?label=liked-most&message=nltk&color=blue"/>
+<img src="https://img.shields.io/static/v1?label=liked-most&message=scikit-learn&color=9cf"/>
 <img src="https://img.shields.io/static/v1?label=liked-most&message=jupyter-notebook&color=brightgreen"/>
 </p>
 
@@ -55,7 +62,7 @@ An undergraduate computer science student who's interested in learning more abou
 <a href="https://github.com/CrispenGari?tab=repositories"><img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrispenGari&layout=compact&langs_count=6&theme=dark" alt="Top Languages"/></a>
 
 
-### 3hrs of Code
+#### ✨ Some Hours of Code ✨
 
 <!-- <a href="https://github.com/CrispenGari/infinite-shop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=infinite-shop&theme=radical" />
@@ -98,8 +105,7 @@ An undergraduate computer science student who's interested in learning more abou
 |                                                                                                                                                                                                                                                             **[Crispen Gari](https://crispengari-9acaa.web.app/)**                                                                                                                                                                                                                                                              |
 | <a href="https://twitter.com/crispengari"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/crispengari"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/crispengari"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/crispen-gari-34437720b/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/crispengari/"><img src="https://www.pngitem.com/pimgs/m/461-4618525_ig-small-instagram-logo-2019-hd-png-download.png" width="32px" height="32px"></a>|
 
-⚡ Fun fact about me: ✨ I love coding+eating+repeating✨
-
-"❤Eating API's as breakfast preparing for Intelligence and Learning in❤ Java ✔JavaScript✔Node✔ C++/C✔ Python✔ PHP✔ TypeScript✔"
+> ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨
+> "❤Eating API's as breakfast preparing for Intelligence and Learning in❤ Java ✔JavaScript✔Node✔ C++/C✔ Python✔ PHP✔ TypeScript✔"
 
 
