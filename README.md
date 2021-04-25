@@ -110,6 +110,7 @@ An undergraduate computer science student who's interested in learning more abou
     "Everything should be made as simple as possible, but not simpler" — ALBERT EINSTEIN
 <code/>
 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 > ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨
 > "❤Eating API's as breakfast preparing for Intelligence and Learning in❤ Java ✔JavaScript✔Node✔ C++/C✔ Python✔ PHP✔ TypeScript✔"
