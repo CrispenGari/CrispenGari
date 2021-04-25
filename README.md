@@ -175,3 +175,8 @@ int main(void){}
 <a href="https://github.com/CrispenGari/RE-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=RE-python&theme=dark" />
 </a>
+
+<p align="center">
+  <img src="https://github.com/CrispenGari/CrispenGari/blob/main/me.gif" width=400 height=340>
+  <img src="https://github.com/CrispenGari/CrispenGari/blob/main/new.gif" height=340/>
+</p>

@@ -1,4 +1,3 @@
-
 <p align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
 </p>
@@ -20,7 +19,7 @@ An undergraduate computer science student who's interested in learning more abou
 </p>
 
 ```python
-​
+
 import json
 from dataclasses import asdict, dataclass
 
@@ -64,6 +63,7 @@ print(stack.serialize())
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Windows-Terminal&logoColor=999)
 ![Travis](https://img.shields.io/badge/-Travis-000?&logo=Travis-CI)
+
 #### Languages and Frameworks
 
 <p >
@@ -107,8 +107,8 @@ print(stack.serialize())
 <img src="https://img.shields.io/static/v1?label=liked-most&message=jupyter-notebook&color=brightgreen"/>
 </p>
 
-
 getRandom
+
 #### ✨ GitHub Stats ✨
 
 <a href="https://github.com/crispengari?tab=repositories"><img align="center" width="56%" src="https://github-readme-stats.vercel.app/api?username=crispengari&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=dark" alt="Gari's github stats" /></a>
@@ -118,28 +118,29 @@ getRandom
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  tools: [React, Redux, Node, Storybook, Styled - Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+    coorganizer: "AfroPython",
+    speaker: "Latinity",
+    mentor: "EducaTRANSforma",
+  },
+  challenge:
+    "I am doing the #100DaysOfCode challenge focused on react and typescript",
+};
 ```
 
 #### ✨ Some Hours of Code ✨
 
 <!-- <a href="https://github.com/CrispenGari/infinite-shop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=infinite-shop&theme=radical" />
-</a>    
+</a>
 <a href="https://github.com/CrispenGari/IG-clone-Vue2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=IG-clone-Vue2&theme=radical" />
-</a>    
+</a>
 <a href="https://github.com/CrispenGari/like-me-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=like-me-App&theme=radical" />
-</a>    
+</a>
 
 <a href="https://github.com/CrispenGari/Opencv-Python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=Opencv-Python&theme=dark" />
@@ -170,11 +171,10 @@ const thai = {
 
 #### Connect with me
 
-|                                                                                                                                                                                                        <a href="https://CrispenGari.github.io/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a>                                                                                                                                                                                                        |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                                                                                                                                                             **[Crispen Gari](https://crispengari-9acaa.web.app/)**                                                                                                                                                                                                                                                              |
-| <a href="https://twitter.com/crispengari"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/crispengari"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/crispengari"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/crispen-gari-34437720b/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/crispengari/"><img src="https://www.pngitem.com/pimgs/m/461-4618525_ig-small-instagram-logo-2019-hd-png-download.png" width="32px" height="32px"></a>|
-
+|                                                                                                                                                                                                                                                                                             <a href="https://CrispenGari.github.io/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a>                                                                                                                                                                                                                                                                                             |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                                                                                                                                                                                                                                                 **[Crispen Gari](https://crispengari-9acaa.web.app/)**                                                                                                                                                                                                                                                                                                                                                  |
+| <a href="https://twitter.com/crispengari"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/crispengari"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/crispengari"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/crispen-gari-34437720b/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/crispengari/"><img src="https://www.pngitem.com/pimgs/m/461-4618525_ig-small-instagram-logo-2019-hd-png-download.png" width="32px" height="32px"></a> |
 
 <p align ="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" theme="random"/>
@@ -182,5 +182,3 @@ const thai = {
 
 > ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨
 > "❤Eating API's as breakfast preparing for Intelligence and Learning in❤ Java ✔JavaScript✔Node✔ C++/C✔ Python✔ PHP✔ TypeScript✔"
-
-
