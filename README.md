@@ -91,6 +91,9 @@ An undergraduate computer science student who's interested in learning more abou
 <a href="https://github.com/CrispenGari/likeMe-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=likeMe-App&theme=dark" />
 </a>
+<a href="https://github.com/CrispenGari/RE-python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=RE-python&theme=dark" />
+</a>
 
 <br/>
 
