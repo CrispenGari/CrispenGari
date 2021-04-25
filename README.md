@@ -62,11 +62,27 @@ An undergraduate computer science student who's interested in learning more abou
 <img src="https://img.shields.io/static/v1?label=liked-most&message=jupyter-notebook&color=brightgreen"/>
 </p>
 
+
+getRandom
 #### ✨ GitHub Stats ✨
 
 <a href="https://github.com/crispengari?tab=repositories"><img align="center" width="56%" src="https://github-readme-stats.vercel.app/api?username=crispengari&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=dark" alt="Gari's github stats" /></a>
 <a href="https://github.com/CrispenGari?tab=repositories"><img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrispenGari&layout=compact&langs_count=6&theme=dark" alt="Top Languages"/></a>
 
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 
 #### ✨ Some Hours of Code ✨
 
