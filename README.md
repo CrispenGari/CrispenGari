@@ -1,4 +1,6 @@
 ### Hello 👋
+
+<p align="center"><small>   "Everything should be made as simple as possible, but not simpler" — ALBERT EINSTEIN</small></p>
 <p >
 An undergraduate computer science student who's interested in learning more about technology. Infinity love for Computer Vision, Data Science, Machine Learning, Deep Learning, AI, Natural Language Processing and Full stack development using different techs.
 </p>
@@ -105,13 +107,9 @@ An undergraduate computer science student who's interested in learning more abou
 | <a href="https://twitter.com/crispengari"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/crispengari"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/crispengari"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/crispen-gari-34437720b/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/crispengari/"><img src="https://www.pngitem.com/pimgs/m/461-4618525_ig-small-instagram-logo-2019-hd-png-download.png" width="32px" height="32px"></a>|
 
 
-
-<code align="center">
-    "Everything should be made as simple as possible, but not simpler" — ALBERT EINSTEIN
-<code/>
-<br/>
-<br/>
+<p align ="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" theme="random"/>
+</p>
 
 > ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨
 > "❤Eating API's as breakfast preparing for Intelligence and Learning in❤ Java ✔JavaScript✔Node✔ C++/C✔ Python✔ PHP✔ TypeScript✔"
