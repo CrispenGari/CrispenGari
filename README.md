@@ -1,6 +1,6 @@
 ### Hello 👋
 
-<p align="center"><small>   "Everything should be made as simple as possible, but not simpler" — ALBERT EINSTEIN</small></p>
+<p align="center"><small>   <em>"Everything should be made as simple as possible, but not simpler"</em> — <strong>ALBERT EINSTEIN<strong/></small></p>
 <p >
 An undergraduate computer science student who's interested in learning more about technology. Infinity love for Computer Vision, Data Science, Machine Learning, Deep Learning, AI, Natural Language Processing and Full stack development using different techs.
 </p>
