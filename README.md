@@ -19,6 +19,51 @@ An undergraduate computer science student who's interested in learning more abou
   <img src="https://github.com/CrispenGari/CrispenGari/blob/main/new.gif" height=340/>
 </p>
 
+```python
+​
+import json
+from dataclasses import asdict, dataclass
+
+
+@dataclass
+class Stack:
+    languages   : tuple = ("Python", "JS", "Go")
+    databases   : tuple = ("PostgreSQL", "Mongo", "Redis")
+    misc        : tuple = ("Docker", "Celery", "RabbitMQ")
+    ongoing     : tuple = ("Django", "DRF", "Asyncio")
+
+    def serialize(self):
+        return json.dumps(asdict(self), indent=4)
+
+
+stack = Stack()
+print(stack.serialize())
+​
+```
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress&logoColor=888)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Windows-Terminal&logoColor=999)
+![Travis](https://img.shields.io/badge/-Travis-000?&logo=Travis-CI)
 #### Languages and Frameworks
 
 <p >
