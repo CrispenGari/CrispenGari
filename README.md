@@ -1,149 +1,157 @@
+### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 !
 
-<p align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
-</p>
-<p align="center">
-<small>   <em>"Everything should be made as simple as possible, but not simpler"</em> — <strong>ALBERT EINSTEIN<strong/></small>
- </p>
-<p align="center">
-An undergraduate computer science student who's interested in learning more about technology. Infinity love for Computer Vision, Data Science, Machine Learning, Deep Learning, AI, Natural Language Processing and Full stack development using different techs.
-</p>
+```js
+const quote = () => {
+  return `Everything should be made as simple as possible, but not simpler — ALBERT EINSTEIN`;
+};
+quote();
+```
+
+```js
+(() => {
+  console.log(
+    "An undergraduate computer science student who's interested in learning more about technology. Infinity love for Computer Vision, Data Science, Machine Learning, Deep Learning, AI, Natural Language Processing and Full stack development using different techs."
+  );
+})();
+```
 
 <p align="center">
 <a href="https://www.linkedin.com/in/crispen-gari-34437720b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/crispen_gari_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/crispengari" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
-<p align="center">
-  <img src="https://github.com/CrispenGari/CrispenGari/blob/main/me.gif" width=400 height=340>
-  <img src="https://github.com/CrispenGari/CrispenGari/blob/main/new.gif" height=340/>
-</p>
 
-```python
-​
-import json
-from dataclasses import asdict, dataclass
-
-
-@dataclass
-class Stack:
-    languages   : tuple = ("Python", "JS", "Go")
-    databases   : tuple = ("PostgreSQL", "Mongo", "Redis")
-    misc        : tuple = ("Docker", "Celery", "RabbitMQ")
-    ongoing     : tuple = ("Django", "DRF", "Asyncio")
-
-    def serialize(self):
-        return json.dumps(asdict(self), indent=4)
-
-
-stack = Stack()
-print(stack.serialize())
-​
-```
-
-### Languages
+#### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
-### Technologies
+#### Web Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress&logoColor=888)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Windows-Terminal&logoColor=999)
-![Travis](https://img.shields.io/badge/-Travis-000?&logo=Travis-CI)
-#### Languages and Frameworks
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 
-<p >
-<img src="https://img.shields.io/static/v1?label=language&message=python&color=green"/>
-<img src="https://img.shields.io/static/v1?label=language&message=javascript&color=orange"/>
-<img src="https://img.shields.io/static/v1?label=language&message=typescript&color=blue"/>
-<img src="https://img.shields.io/static/v1?label=language&message=cpp&color=red"/>
-<img src="https://img.shields.io/static/v1?label=language&message=c&color=inactive"/>
-<img src="https://img.shields.io/static/v1?label=language&message=powershell&color=infomational"/>
-<img src="https://img.shields.io/static/v1?label=language&message=css&color=critical"/>
-<img src="https://img.shields.io/static/v1?label=language&message=html&color=blueviolet"/>
-<img src="https://img.shields.io/static/v1?label=language&message=scss&color=9cf"/>
-<img src="https://img.shields.io/static/v1?label=language&message=node&color=success"/>
-<img src="https://img.shields.io/static/v1?label=language&message=php&color=black"/>
-<img src="https://img.shields.io/static/v1?label=language&message=java&color=lightseagreen"/>
-<img src="https://img.shields.io/static/v1?label=framework&message=angular&color=critical"/>
-<img src="https://img.shields.io/static/v1?label=framework&message=vue&color=blueviolet"/>
-<img src="https://img.shields.io/static/v1?label=framework&message=react&color=9cf"/>
-<img src="https://img.shields.io/static/v1?label=framework&message=next&color=success"/>
-<img src="https://img.shields.io/static/v1?label=framework&message=express&color=important"/>
-<img src="https://img.shields.io/static/v1?label=framework&message=react-native&color=lightgrey"/>
-<img src="https://img.shields.io/static/v1?label=framework&message=expo&color=yellowgreen"/>
-</p>
+#### Interested In
 
-#### Databases and Interests
+![pandas](https://img.shields.io/badge/-pandas-000?&logo=pandas)
+![opencv](https://img.shields.io/badge/-opencv-000?&logo=opencv)
+![numpy](https://img.shields.io/badge/-numpy-000?&logo=numpy)
+![pytorch](https://img.shields.io/badge/-pytorch-000?&logo=pytorch)
+![keras](https://img.shields.io/badge/-keras-000?&logo=keras)
+![matplotlib](https://img.shields.io/badge/-matplotlib-000?&logo=matplotlib)
+![nltk](https://img.shields.io/badge/-nltk-000?&logo=nltk)
+![sklearn](https://img.shields.io/badge/-sklearn-000?&logo=sklearn)
+![jupyter](https://img.shields.io/badge/-jupyter-000?&logo=jupyter)
+![expo](https://img.shields.io/badge/-expo-000?&logo=expo)
+![express](https://img.shields.io/badge/-express-000?&logo=express)
+![css](https://img.shields.io/badge/-css-000?&logo=css)
+![scss](https://img.shields.io/badge/-scss-000?&logo=scss)
+![sass](https://img.shields.io/badge/-sass-000?&logo=sass)
 
-<p >
-<img src="https://img.shields.io/static/v1?label=database&message=firebase&color=orange"/>
-<img src="https://img.shields.io/static/v1?label=database&message=mongodb&color=green"/>
-<img src="https://img.shields.io/static/v1?label=database&message=sql&color=success"/>
-<img src="https://img.shields.io/static/v1?label=database&message=sqlite&color=important"/>
-<img src="https://img.shields.io/static/v1?label=liked-most&message=opencv&color=yellow"/>
-<img src="https://img.shields.io/static/v1?label=liked-most&message=numpy&color=blueviolet"/>
-<img src="https://img.shields.io/static/v1?label=liked-most&message=pandas&color=9cf"/>
-<img src="https://img.shields.io/static/v1?label=liked-most&message=matplotlib&color=success"/>
-<img src="https://img.shields.io/static/v1?label=liked-most&message=tensorflow&color=important"/>
-<img src="https://img.shields.io/static/v1?label=liked-most&message=keras&color=red"/>
-<img src="https://img.shields.io/static/v1?label=liked-most&message=pytorch&color=green"/>
-<img src="https://img.shields.io/static/v1?label=liked-most&message=nltk&color=blue"/>
-<img src="https://img.shields.io/static/v1?label=liked-most&message=scikit-learn&color=9cf"/>
-<img src="https://img.shields.io/static/v1?label=liked-most&message=jupyter-notebook&color=brightgreen"/>
-</p>
+```python
+import json
+from dataclasses import asdict, dataclass
 
+@dataclass
+class Crispen(object):
+    languages   : tuple = ("Python", "JS", "TS", "C++", "Java", "C")
+    databases   : tuple = ("MySQL", "MongoDB", "Firebase")
+    ongoing     : tuple = ("Pytorch", "NLTK", "Tensorflow", "NLP")
+    web         : tuple = ("React", "Vue", "Webpack", "Angular")
+    def me(self):
+        return json.dumps(asdict(self), indent=2)
+    def printMe(self):
+        print(self.me())
+    pass
 
-getRandom
+crispen = Crispen()
+crispen.printMe()
+```
+
+```java
+package com.company;
+
+class FunnyFacts{
+  private String [] likes = new String[3];
+  public FunnyFacts(String [] likes){
+    this.likes = likes;
+    System.out.printf("✨I love %s + %s + %s ✨ \n", this.likes[0], this.likes[1], this.likes[2]);
+  }
+}
+
+public class Main{
+  public static void main(String[] args){
+    String likes[] = new String[]{"coding", "eating", "repeating"};
+    FunnyFacts funnyFacts = new FunnyFacts(likes);
+  }
+}
+```
+
+```ts
+const languages: string[] = [
+  "Java",
+  "TypeScript",
+  "C++",
+  "C",
+  "Python",
+  "Node",
+  "PHP",
+];
+const langs: T[] = languages.map((lang) => {
+  return { lang: lang.toUpperCase() };
+});
+console.log(langs);
+interface T {
+  lang?: string;
+}
+```
+
+```c++
+#include <iostream>
+#include <string>
+using namespace std;
+
+struct Quote{
+   string name;
+}quote;
+
+class Main{
+  private:
+  public:
+    Main(Quote quote);
+  protected:
+}main_(quote);
+
+Main::Main(Quote quote){
+      quote.name = "Eating API's as breakfast preparing for Intelligence and Learning.";
+      cout<<quote.name <<endl;
+}
+int main(void){}
+```
+
 #### ✨ GitHub Stats ✨
 
 <a href="https://github.com/crispengari?tab=repositories"><img align="center" width="56%" src="https://github-readme-stats.vercel.app/api?username=crispengari&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=dark" alt="Gari's github stats" /></a>
 <a href="https://github.com/CrispenGari?tab=repositories"><img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrispenGari&layout=compact&langs_count=6&theme=dark" alt="Top Languages"/></a>
 
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
+#### Connect with me
 
-#### ✨ Some Hours of Code ✨
+|                                                                                                                                                                                                                                                                                             <a href="https://CrispenGari.github.io/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a>                                                                                                                                                                                                                                                                                             |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                                                                                                                                                                                                                                                 **[Crispen Gari](https://crispengari-9acaa.web.app/)**                                                                                                                                                                                                                                                                                                                                                  |
+| <a href="https://twitter.com/crispengari"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/crispengari"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/crispengari"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/crispen-gari-34437720b/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/crispengari/"><img src="https://www.pngitem.com/pimgs/m/461-4618525_ig-small-instagram-logo-2019-hd-png-download.png" width="32px" height="32px"></a> |
 
-<!-- <a href="https://github.com/CrispenGari/infinite-shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=infinite-shop&theme=radical" />
-</a>    
-<a href="https://github.com/CrispenGari/IG-clone-Vue2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=IG-clone-Vue2&theme=radical" />
-</a>    
-<a href="https://github.com/CrispenGari/like-me-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=like-me-App&theme=radical" />
-</a>    
-
-<a href="https://github.com/CrispenGari/Opencv-Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=Opencv-Python&theme=dark" />
-</a> -->
 <a href="https://github.com/CrispenGari/python-and-mongodb">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=python-and-mongodb&theme=dark" />
 </a>    
@@ -165,22 +173,3 @@ const thai = {
 <a href="https://github.com/CrispenGari/RE-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=RE-python&theme=dark" />
 </a>
-
-<br/>
-
-#### Connect with me
-
-|                                                                                                                                                                                                        <a href="https://CrispenGari.github.io/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a>                                                                                                                                                                                                        |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                                                                                                                                                             **[Crispen Gari](https://crispengari-9acaa.web.app/)**                                                                                                                                                                                                                                                              |
-| <a href="https://twitter.com/crispengari"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/crispengari"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/crispengari"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/crispen-gari-34437720b/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/crispengari/"><img src="https://www.pngitem.com/pimgs/m/461-4618525_ig-small-instagram-logo-2019-hd-png-download.png" width="32px" height="32px"></a>|
-
-
-<p align ="center">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" theme="random"/>
-</p>
-
-> ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨
-> "❤Eating API's as breakfast preparing for Intelligence and Learning in❤ Java ✔JavaScript✔Node✔ C++/C✔ Python✔ PHP✔ TypeScript✔"
-
-
