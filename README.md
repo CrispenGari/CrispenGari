@@ -41,6 +41,7 @@ quote();
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 
 #### Interested In
 
