@@ -28,14 +28,13 @@ quote();
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C](https://img.shields.io/badge/-Clang-000?&logo=C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 #### Web Technologies
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
