@@ -46,6 +46,7 @@ quote();
 
 ![pandas](https://img.shields.io/badge/-pandas-000?&logo=pandas)
 ![opencv](https://img.shields.io/badge/-opencv-000?&logo=opencv)
+![TensorFlow](https://img.shields.io/badge/-tensorflow-000?&logo=tensorflow)
 ![numpy](https://img.shields.io/badge/-numpy-000?&logo=numpy)
 ![pytorch](https://img.shields.io/badge/-pytorch-000?&logo=pytorch)
 ![keras](https://img.shields.io/badge/-keras-000?&logo=keras)
