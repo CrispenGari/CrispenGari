@@ -179,6 +179,9 @@ int main(void){}
 <a href="https://github.com/CrispenGari/RE-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=RE-python&theme=dark" />
 </a>
+<a href="https://github.com/CrispenGari/amaizing-css">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=amaizing-css&theme=dark" />
+</a>
 
 <br/>
 </br>
