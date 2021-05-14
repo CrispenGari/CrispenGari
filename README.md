@@ -157,6 +157,9 @@ int main(void){}
 
 <a href="https://github.com/CrispenGari/python-and-mongodb">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=python-and-mongodb&theme=dark" />
+</a>
+<a href="https://github.com/CrispenGari/days-of-python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=days-of-python&theme=dark" />
 </a>    
 <a href="https://github.com/CrispenGari/Optical-Character-Recognition-Python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrispenGari&repo=Optical-Character-Recognition-Python&theme=dark" />
