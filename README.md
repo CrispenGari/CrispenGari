@@ -1,5 +1,9 @@
 ### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 !
 
+<p align="center">
+  <img src="https://github.com/CrispenGari/CrispenGari/blob/main/cover.jpeg" alt="cover"/>
+</p>
+
 ```js
 const quote = () => {
   return `Everything should be made as simple as possible, but not simpler — ALBERT EINSTEIN`;
