@@ -68,7 +68,8 @@ from dataclasses import asdict, dataclass
 class Crispen(object):
     languages   : tuple = ("Python", "JS", "TS", "C++", "Java", "C")
     databases   : tuple = ("MySQL", "MongoDB", "Firebase")
-    ongoing     : tuple = ("Pytorch", "NLTK", "Tensorflow", "NLP")
+    ongoing     : tuple = ("Pytorch", "NLTK", "TensorFlow", "NLP", "Keras")
+    most_used   : tuple = ("Matplotlib", "Numpy", "Scikit-Learn", "Opencv")
     web         : tuple = ("React", "Vue", "Webpack", "Angular")
     def me(self):
         return json.dumps(asdict(self), indent=2)
