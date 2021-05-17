@@ -1,7 +1,7 @@
 ### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 !
 
 <p align="center">
-  <img src="https://github.com/CrispenGari/CrispenGari/blob/main/cover.jpeg" alt="cover"/>
+  <img src="https://github.com/CrispenGari/CrispenGari/blob/main/cover.jpeg" alt="cover" width="100%"/>
 </p>
 
 ```js
