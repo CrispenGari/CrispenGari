@@ -54,14 +54,9 @@ quote();
 ![numpy](https://img.shields.io/badge/-numpy-000?&logo=numpy)
 ![pytorch](https://img.shields.io/badge/-pytorch-000?&logo=pytorch)
 ![keras](https://img.shields.io/badge/-keras-000?&logo=keras)
-![matplotlib](https://img.shields.io/badge/-matplotlib-000?&logo=matplotlib)
-![nltk](https://img.shields.io/badge/-nltk-000?&logo=nltk)
-![sklearn](https://img.shields.io/badge/-sklearn-000?&logo=sklearn)
 ![jupyter](https://img.shields.io/badge/-jupyter-000?&logo=jupyter)
 ![expo](https://img.shields.io/badge/-expo-000?&logo=expo)
 ![express](https://img.shields.io/badge/-express-000?&logo=express)
-![css](https://img.shields.io/badge/-css-000?&logo=css)
-![scss](https://img.shields.io/badge/-scss-000?&logo=scss)
 ![sass](https://img.shields.io/badge/-sass-000?&logo=sass)
 
 ```python
