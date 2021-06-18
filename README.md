@@ -4,6 +4,7 @@
   <img src="https://github.com/CrispenGari/CrispenGari/blob/main/cover.jpeg" alt="cover" width="100%"/>
 </p>
 
+<!--
 ```js
 const quote = () => {
   return `Everything should be made as simple as possible, but not simpler — ALBERT EINSTEIN`;
@@ -18,6 +19,7 @@ quote();
   );
 })();
 ```
+-->
 
 <p align="center">
 <a href="https://www.linkedin.com/in/crispen-gari-34437720b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -25,7 +27,7 @@ quote();
 <a href="https://www.facebook.com/crispengari" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
-#### Languages
+#### Languages and Frameworks
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -34,9 +36,6 @@ quote();
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C](https://img.shields.io/badge/-Clang-000?&logo=C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-#### Web Technologies
-
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
@@ -45,9 +44,6 @@ quote();
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-
-#### Interested In
-
 ![pandas](https://img.shields.io/badge/-pandas-000?&logo=pandas)
 ![opencv](https://img.shields.io/badge/-opencv-000?&logo=opencv)
 ![TensorFlow](https://img.shields.io/badge/-tensorflow-000?&logo=tensorflow)
@@ -59,6 +55,7 @@ quote();
 ![express](https://img.shields.io/badge/-express-000?&logo=express)
 ![sass](https://img.shields.io/badge/-sass-000?&logo=sass)
 
+<!--
 ```python
 import json
 from dataclasses import asdict, dataclass
@@ -140,6 +137,7 @@ Main::Main(Quote quote){
 }
 int main(void){}
 ```
+-->
 
 #### ✨ GitHub Stats ✨
 
@@ -186,7 +184,7 @@ int main(void){}
 <br/>
 </br>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/CrispenGari/CrispenGari/blob/main/me.gif" width=400 height=340>
   <img src="https://github.com/CrispenGari/CrispenGari/blob/main/new.gif" height=340/>
-</p>
+</p> -->
