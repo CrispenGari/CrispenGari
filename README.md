@@ -4,7 +4,7 @@
   <img src="https://github.com/CrispenGari/CrispenGari/blob/main/cover.jpeg" alt="cover" width="100%"/>
 </p>
 
-<!--
+
 ```js
 const quote = () => {
   return `Everything should be made as simple as possible, but not simpler — ALBERT EINSTEIN`;
@@ -12,6 +12,7 @@ const quote = () => {
 quote();
 ```
 
+<!--
 ```js
 (() => {
   console.log(
@@ -27,6 +28,7 @@ quote();
 <a href="https://www.facebook.com/crispengari" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
+<!--
 #### Languages and Frameworks
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -54,8 +56,8 @@ quote();
 ![expo](https://img.shields.io/badge/-expo-000?&logo=expo)
 ![express](https://img.shields.io/badge/-express-000?&logo=express)
 ![sass](https://img.shields.io/badge/-sass-000?&logo=sass)
+-->
 
-<!--
 ```python
 import json
 from dataclasses import asdict, dataclass
@@ -76,6 +78,7 @@ class Crispen(object):
 crispen = Crispen()
 crispen.printMe()
 ```
+<!--
 
 ```java
 package com.company;
@@ -138,7 +141,7 @@ Main::Main(Quote quote){
 int main(void){}
 ```
 -->
-
+<!--
 #### ✨ GitHub Stats ✨
 
 <a href="https://github.com/crispengari?tab=repositories"><img align="center" width="56%" src="https://github-readme-stats.vercel.app/api?username=crispengari&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=dark" alt="Gari's github stats" /></a>
@@ -150,7 +153,8 @@ int main(void){}
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                                                                                                                                                                                                                                                 **[Crispen Gari](https://crispengari-9acaa.web.app/)**                                                                                                                                                                                                                                                                                                                                                  |
 | <a href="https://twitter.com/crispengari"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/crispengari"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/crispengari"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/crispen-gari-34437720b/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/crispengari/"><img src="https://www.pngitem.com/pimgs/m/461-4618525_ig-small-instagram-logo-2019-hd-png-download.png" width="32px" height="32px"></a> |
-
+-->
+<!--
 #### 2hrs of Code
 
 <a href="https://github.com/CrispenGari/python-and-mongodb">
