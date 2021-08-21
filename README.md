@@ -27,10 +27,10 @@ quote();
 <a href="https://www.facebook.com/crispengari" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
-#### ✨ GitHub Stats ✨
+<!-- #### ✨ GitHub Stats ✨
 
 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrispenGari&layout=compact&langs_count=6&theme=dark" alt="Top Languages"/>
-
+ -->
 <!--
 #### Languages and Frameworks
 
