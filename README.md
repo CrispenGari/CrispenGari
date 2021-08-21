@@ -29,7 +29,7 @@ quote();
 
 #### ✨ GitHub Stats ✨
 
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrispenGari&layout=compact&langs_count=6&theme=dark" alt="Top Languages"/>
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrispenGari&layout=compact&langs_count=6&theme=dark" alt="Top Languages"/>
 
 <!--
 #### Languages and Frameworks
