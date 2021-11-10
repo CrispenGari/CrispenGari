@@ -3,23 +3,21 @@
 <p align="center">
   <img src="https://github.com/CrispenGari/CrispenGari/blob/main/cover.jpeg" alt="cover" width="100%"/>
 </p>
-
+<!--
 ```js
 const quote = () => {
   return `Everything should be made as simple as possible, but not simpler — ALBERT EINSTEIN`;
 };
 quote();
 ```
-
-<!--
+-->
 ```js
 (() => {
   console.log(
-    "An undergraduate computer science student who's interested in learning more about technology. Infinity love for Computer Vision, Data Science, Machine Learning, Deep Learning, AI, Natural Language Processing and Full stack development using different techs."
+    "An undergraduate computer science student who's interested in learning more about technology. Infinity love for Computer Vision and Natural Language Processing using AI/Deep Learning and Full stack development using different techs."
   );
 })();
 ```
--->
 
 <p align="center">
 <a href="https://www.linkedin.com/in/crispen-gari-34437720b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -60,7 +58,7 @@ quote();
 ![express](https://img.shields.io/badge/-express-000?&logo=express)
 ![sass](https://img.shields.io/badge/-sass-000?&logo=sass)
 -->
-
+<!--
 ```python
 import json
 from dataclasses import asdict, dataclass
@@ -81,6 +79,7 @@ class Crispen(object):
 crispen = Crispen()
 crispen.printMe()
 ```
+-->
 <!--
 
 ```java
