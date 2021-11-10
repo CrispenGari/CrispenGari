@@ -2,7 +2,7 @@
 
 _an undergraduate computer science **(dropout)** student who's interested in learning more about technology. infinity love for **c**omputer **v**ision **(cv)** and **n**atural **l**anguage **p**rocessing **(nlp)** using ai/deep learning._
 
-[@crispengari](https://crispengari-ac2c8.web.app/)
+[@crispengari](https://crispengari-ac2c8.web.app/) _**deep learning enthusiast.**_
 
 <!-- **_graphql && pytorch enthusiast_** -->
 
