@@ -14,6 +14,7 @@ _an undergraduate computer science **(dropout)** student who's interested in lea
 7. [x] _php_
 8. [x] _nodejs_
 9. [x] _mysql_
+10. [x] _git and github_
 
 ### _Major techs i learnt in 2020?_
 1. [x] _react native_
@@ -23,6 +24,9 @@ _an undergraduate computer science **(dropout)** student who's interested in lea
 5. [x] _document oriented databases (firebase, mongodb)_
 6. [x] _typescript_
 7. [x] _postgres_
+8. [x] _vue.js_
+9. [x] _electron.js_
+10. [x] _git_
 
 ### _Major techs i learnt in 2021?_
 1. [x] _graphql_
@@ -44,6 +48,8 @@ _an undergraduate computer science **(dropout)** student who's interested in lea
 4. [x] _java springboot_
 5. [ ] _machine learning in C++_
 6. [ ] _robotics_
+7. [ ] _docker_
+8. [ ] _prisma_
 
 
 <p align="center">
