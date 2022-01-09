@@ -41,7 +41,7 @@ _an undergraduate computer science **(dropout)** student who's interested in lea
 10. [x] _markdowns and .ipynb_
 11. [ ] _elixir_
 
-### _Major i want to learn in 2022?_
+### _Major techs i want to learn in 2022?_
 1. [ ] _koa.js_
 2. [x] _django_
 3. [ ] _reinforcement learning **(rl)**_
