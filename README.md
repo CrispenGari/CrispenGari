@@ -4,17 +4,7 @@ _an undergraduate computer science **(dropout)** student who's interested in lea
 
 [@crispengari](https://crispengari-ac2c8.web.app/) _**deep learning enthusiast.**_
 
-### _What i learnt in 2019?_
-1. [x] _css_
-2. [x] _javascript and html_
-3. [x] _python_
-4. [x] _C++_
-5. [x] _Java_
-6. [x] _Visual Basics_
-7. [x] _php_
-8. [x] _nodejs_
-9. [x] _mysql_
-10. [x] _git and github_
+<!--
 
 ### _Major techs i learnt in 2020?_
 1. [x] _react native_
@@ -40,7 +30,7 @@ _an undergraduate computer science **(dropout)** student who's interested in lea
 9. [x] _redis_
 10. [x] _markdowns and .ipynb_
 11. [ ] _elixir_
-
+-->
 ### _Major techs i want to learn in 2022?_
 1. [ ] _koa.js_
 2. [x] _django_
@@ -50,6 +40,7 @@ _an undergraduate computer science **(dropout)** student who's interested in lea
 6. [ ] _robotics_
 7. [ ] _docker_
 8. [ ] _prisma_
+9. [ ] _urql_
 
 
 <p align="center">
