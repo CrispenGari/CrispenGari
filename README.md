@@ -4,6 +4,18 @@ _an undergraduate computer science **(dropout)** student who's interested in lea
 
 [@crispengari](https://crispengari-ac2c8.web.app/) _**deep learning enthusiast.**_
 
+```c++
+#include "CMakeProject2.h"
+#include <torch/torch.h>
+using namespace std;
+
+int main(){
+  torch::Tensor tensor = torch::eye(3);
+  cout << tensor << endl;
+  return 0;
+}
+```
+
 <!--
 
 ### _Major techs i learnt in 2020?_
