@@ -16,35 +16,9 @@ int main(){
 }
 ```
 
-<!--
+What i want to learn this year.
 
-### _Major techs i learnt in 2020?_
-1. [x] _react native_
-2. [x] _react js_
-3. [x] _sass and css_
-4. [x] _restfull api's_
-5. [x] _document oriented databases (firebase, mongodb)_
-6. [x] _typescript_
-7. [x] _postgres_
-8. [x] _vue.js_
-9. [x] _electron.js_
-10. [x] _git_
-
-### _Major techs i learnt in 2021?_
-1. [x] _graphql_
-2. [x] _natural language processing **(nlp)**_
-3. [x] _computer vision **(cv)**_
-4. [x] _java springboot_
-5. [x] _object relational mapping database (orm)_
-6. [x] _python flask_
-7. [x] _regression and classification machine learning_
-8. [x] _opencv in C++ and Python_
-9. [x] _redis_
-10. [x] _markdowns and .ipynb_
-11. [ ] _elixir_
--->
-### _Major techs i want to learn in 2022?_
-1. [ ] _koa.js_
+1. [x] _koa.js_
 2. [x] _django_
 3. [ ] _reinforcement learning **(rl)**_
 4. [x] _java springboot_
@@ -52,7 +26,36 @@ int main(){
 6. [ ] _robotics_
 7. [ ] _docker_
 8. [ ] _prisma_
-9. [ ] _urql_
+9. [x] _urql_
+
+I'm so fascinated with deep learning using `torch` look how clean is this code.
+
+```py
+class LeNet(nn.Module):
+    def __init__(self, output_dim):
+        super(LeNet, self).__init__()
+        self.features = nn.Sequential(
+            nn.Conv2d(in_channels=1, out_channels=6, kernel_size =5),
+            nn.MaxPool2d(kernel_size=2),
+            nn.ReLU(),
+            nn.Conv2d(in_channels=6, out_channels=16, kernel_size =5),
+            nn.MaxPool2d(kernel_size=2),
+            nn.ReLU()
+        )
+        self.classifier = nn.Sequential(
+            nn.Linear(16 * 4 * 4, 120),
+            nn.ReLU(),
+            nn.Linear(120, 84),
+            nn.ReLU(),
+            nn.Linear(84, output_dim)
+        )
+
+    def forward(self, x):
+        x = self.features(x) # x = [batch size, 16, 4, 4]
+        x = x.view(x.shape[0], -1) # x = [batch size, 16*4*4 = 256]
+        x = self.classifier(x) # x = [batch size, output dim]
+        return x
+```
 
 
 <p align="center">
