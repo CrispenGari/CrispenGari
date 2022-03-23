@@ -25,7 +25,7 @@ What i want to learn this year.
 5. [ ] _machine learning in C++_
 6. [ ] _robotics_
 7. [ ] _docker_
-8. [ ] _prisma_
+8. [x] _prisma_
 9. [x] _urql_
 
 I'm so fascinated with deep learning using `torch` look how clean is this code.
