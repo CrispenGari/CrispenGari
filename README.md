@@ -29,6 +29,7 @@ What i want to learn this year.
 9. [x] _urql_
 10. [ ] _java swing(awt)_
 11. [ ] _game engine in javascript_
+12. [x] _electron.js_
 
 I'm so fascinated with deep learning using `torch` look how clean is this code.
 
