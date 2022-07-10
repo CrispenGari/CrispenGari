@@ -30,6 +30,8 @@ What i want to learn this year.
 10. [ ] _java swing(awt)_
 11. [ ] _game engine in javascript_
 12. [x] _electron.js_
+13. [ ] _svelte.js_
+14. [ ] _vs-code extentions_
 
 I'm so fascinated with deep learning using `torch` look how clean is this code.
 
