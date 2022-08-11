@@ -24,7 +24,7 @@ What i want to learn this year.
 4. [x] _java springboot_
 5. [ ] _machine learning in C++_
 6. [ ] _robotics_
-7. [ ] _docker_
+7. [x] _docker_
 8. [x] _prisma_
 9. [x] _urql_
 10. [ ] _java swing(awt)_
