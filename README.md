@@ -32,7 +32,7 @@ What i want to learn this year.
 12. [x] _electron.js_
 13. [ ] _svelte.js_
 14. [ ] _vs-code extentions_
-15. [ ] _react component library_
+15. [x] _react component library_
 16. [ ] _aws_
 17. [ ] _kubernetes_
 I'm so fascinated with deep learning using `torch` look how clean is this code.
