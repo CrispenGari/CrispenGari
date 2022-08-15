@@ -4,6 +4,7 @@ _an undergraduate computer science **(dropout)** student who's interested in lea
 
 [@crispengari](https://crispengari-ac2c8.web.app/) _**deep learning enthusiast.**_
 
+<!--
 ```c++
 #include "CMakeProject2.h"
 #include <torch/torch.h>
@@ -63,7 +64,7 @@ class LeNet(nn.Module):
         x = self.classifier(x) # x = [batch size, output dim]
         return x
 ```
-
+-->
 
 <p align="center">
 <a href="https://www.linkedin.com/in/crispen-gari-34437720b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
