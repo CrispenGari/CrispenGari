@@ -4,6 +4,13 @@ _an undergraduate computer science **(dropout)** student who's interested in lea
 
 [@crispengari](https://crispen-gari.web.app/#/home) _**deep learning enthusiast.**_
 
+```ts
+(async ()=>{
+  await console.log("2023, i'm building more with react-native and deep-leaning!!")
+)();
+```
+
+
 <!--
 ```c++
 #include "CMakeProject2.h"
