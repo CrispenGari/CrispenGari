@@ -2,6 +2,15 @@
 
 _an undergraduate computer science **(dropout)** student who's interested in learning more about technology. infinity love for **c**omputer **v**ision **(cv)** and **n**atural **l**anguage **p**rocessing **(nlp)** using ai/deep learning._
 
+```py
+class Config:
+  CURRENT = str(2023)
+  MESSAGE = "Python, TypeScript and Java"
+  
+if __year__ == Config.CURRENT:
+  print(Config.MESSAGE)
+```
+
 [@crispengari](https://crispen-gari.web.app/#/home) _**deep learning enthusiast.**_
 
 ```ts
