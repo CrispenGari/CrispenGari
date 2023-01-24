@@ -1,6 +1,10 @@
 ### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 !
 
-_an undergraduate computer science **(dropout)** student who's interested in learning more about technology. infinity love for **c**omputer **v**ision **(cv)** and **n**atural **l**anguage **p**rocessing **(nlp)** using ai/deep learning._
+_an undergraduate computer science **(dropout)** student who's interested in learning more about technology. infinity love for **c**omputer **v**ision **(cv)** and **n**atural **l**anguage **p**rocessing **(nlp)** using ai/deep learning currently working with full stack web and mobile applications with some machine leaning._
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=crispengari&label=Profile%20views&color=0e75b6&style=flat" alt="crispengari" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crispengari" alt="crispengari" /></a> </p>
 
 ```py
 class Config:
@@ -18,6 +22,7 @@ if __year__ == Config.CURRENT:
   await console.log("2023, i'm building more with react-native and deep-leaning!!")
 )();
 ```
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crispengari&show_icons=true&locale=en&layout=compact" alt="crispengari" /></p>
 
 
 <!--
