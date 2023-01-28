@@ -17,6 +17,14 @@ if __year__ == Config.CURRENT:
 
 [@crispengari](https://crispen-gari.web.app/#/home) _**deep learning enthusiast.**_
 
+```shell
+Do you believe Robots is the next big THING? Because I do!!!
+```
+
+<p align="">
+<img src="https://github.com/CrispenGari/CrispenGari/blob/main/IMG_1117.jpeg" alt="robot" height="200"/>
+</p>
+
 ```ts
 (async ()=>{
   await console.log("2023, i'm building more with react-native and deep-leaning!!")
