@@ -4,12 +4,24 @@ _an undergraduate computer science **(dropout)** student who's interested in lea
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crispengari&label=Profile%20views&color=0e75b6&style=flat" alt="crispengari" /> </p>
 
+```c++
+#include "CMakeProject2.h"
+#include <torch/torch.h>
+using namespace std;
+
+int main(){
+  torch::Tensor tensor = torch::eye(3);
+  cout << tensor << endl;
+  return 0;
+}
+```
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crispengari" alt="crispengari" /></a> </p>
 
 ```py
 class Config:
-  CURRENT = str(2023)
-  MESSAGE = "Python, TypeScript and Java"
+  CURRENT = str(2024)
+  MESSAGE = "Python, TypeScript/JavaScript and Java"
   
 if __year__ == Config.CURRENT:
   print(Config.MESSAGE)
@@ -27,7 +39,7 @@ Do you believe Robots is the next big THING? Because I do!!!
 
 ```ts
 (async ()=>{
-  await console.log("2023, i'm building more with react-native and deep-leaning!!")
+  await console.log("2024, i'm building more with react-native & have a close look to ML/DL/AI!!")
 )();
 ```
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crispengari&show_icons=true&locale=en&layout=compact" alt="crispengari" /></p>
