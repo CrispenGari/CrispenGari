@@ -18,7 +18,7 @@
 </a>
 </p>
 
-Tinashe Crispen Garidzira (Crispen Gari) is a software developer and AI researcher specializing in deep learning, machine learning, and software development. He is the creator of [`dataloom`](https://dataloom-py.readthedocs.io/en/latest/) and [`helperfns`](https://helperfns.readthedocs.io/en/stable/index.html), a machine learning library, and has published academic work in the field. Passionate about React Native, React.js, and TypeScript, he also tutors students and works as a freelancer. He builds AI tools and frameworks, enjoys working with Kaggle and Hugging Face datasets, and favors PyTorch for deep learning. Crispen specializes in supervised classification, regression, clustering, and semi-supervised learning.
+**Tinashe Crispen Garidzira** (**Crispen Gari**) is a software developer and AI `Researcher` specializing in deep learning, machine learning, and software development. He is the creator of [`dataloom`](https://dataloom-py.readthedocs.io/en/latest/) and [`helperfns`](https://helperfns.readthedocs.io/en/stable/index.html), a machine learning library, and has published academic work in the field. Passionate about React Native, React.js, and TypeScript, he also tutors students and works as a freelancer. He builds AI tools and frameworks, enjoys working with Kaggle and Hugging Face datasets, and favors PyTorch for deep learning. **Crispen** specializes in supervised classification, regression, clustering, and semi-supervised learning.
 
 <p align="center">
   <img src="coding.gif" height="200"/>
