@@ -64,6 +64,7 @@
 ### 👨‍💻 SAMPLE CODE 🖥️
 
 ```c++
+#include <iostream>
 #include "CMakeProject2.h"
 #include <torch/torch.h>
 using namespace std;
