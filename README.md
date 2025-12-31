@@ -39,7 +39,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🌟 **2026 Vision**
+### 🌟 **2026 Vision**
 
 > "In 2026, I aim to push the boundaries of AI in healthcare and agriculture — building intelligent tools that improve lives, communities, and future technologies."
 
