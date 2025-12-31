@@ -19,18 +19,29 @@
 <a href="https://scholar.google.com/citations?user=NlqEWgUAAAAJ" target="_blank">
   <img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar">
 </a>
-
 </p>
 
-**Tinashe Crispen Garidzira** (**Crispen Gari**) is a software developer and AI [`Researcher`](https://scholar.google.com/citations?user=NlqEWgUAAAAJ&hl=en) specializing in deep learning, machine learning, and software development. He is the creator of [`dataloom`](https://dataloom-py.readthedocs.io/en/latest/) and [`helperfns`](https://helperfns.readthedocs.io/en/stable/index.html), a machine learning library, and has published academic work in the field. Passionate about React Native, React.js, and TypeScript, he also tutors students and works as a freelancer. He builds AI tools and frameworks, enjoys working with Kaggle and Hugging Face datasets, and favors PyTorch for deep learning. **Crispen** specializes in supervised classification, regression, clustering, and semi-supervised learning.
+**Tinashe Crispen Garidzira** (**Crispen Gari**) is a software developer and AI [`Researcher`](https://scholar.google.com/citations?user=NlqEWgUAAAAJ&hl=en) focused on mobile health (mHealth), mobile agriculture (mAgric), and intelligent systems. With a strong background in deep learning, machine learning, and full‑stack development, he builds practical AI‑powered tools that improve real‑world decision‑making. He is the creator of [`dataloom`](https://dataloom-py.readthedocs.io/en/latest/) and [`helperfns`](https://helperfns.readthedocs.io/en/stable/index.html), and continues to contribute to open‑source AI tools and research. His 2026 focus areas include:
+
+- [x] 🧬 AI for mHealth (disease detection, patient monitoring, telemedicine models)
+- [x] 🌱 AI for mAgric (crop health analysis, yield prediction, pest classification)
+- [x] 📱 Mobile & cross‑platform development (React Native, Flutter, web dashboards)
+- [x] 🧠 Deep Learning (DL) & ML research
 
 <p align="center">
+  <br/>
   <img src="coding.gif" height="200"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=crispengari&label=Profile%20views&color=2A004E&style=flat" alt="crispengari profile views" />
 </p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## 🌟 **2026 Vision**
+
+> "In 2026, I aim to push the boundaries of AI in healthcare and agriculture — building intelligent tools that improve lives, communities, and future technologies."
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -63,37 +74,40 @@
 
 ### 👨‍💻 SAMPLE CODE 🖥️
 
-```c++
-#include <iostream>
-#include "CMakeProject2.h"
-#include <torch/torch.h>
-using namespace std;
-
-int main(){
-  torch::Tensor tensor = torch::eye(3);
-  cout << tensor << endl;
-  return 0;
-}
-```
-
 ```py
-class Config:
-    CURRENT_YEAR = str(2025)
-    MESSAGE = "Python, C++, TypeScript/JavaScript, and Java"
+# AI for mHealth — Example: CNN Inference Script
+import torch
+from model import CNNModel
 
-if __year__ == Config.CURRENT_YEAR:
-    print(Config.MESSAGE)
-
-```
-
-```shell
-Do you believe Robots is the next big THING? Because I do!!!
+model = CNNModel().eval()
+img = torch.randn(1, 3, 224, 224)
+pred = model(img)
+print("Prediction:", pred.argmax().item())
 ```
 
 ```ts
-(async ()=>{
-  await console.log("2025, i'm building more with react-native & have a close look to ML/DL/AI!!")
-)();
+// React Native 2026 — Health Monitoring Snippet
+const App = () => {
+  return (
+    <View>
+      <Text>mHealth AI Dashboard — 2026</Text>
+    </View>
+  );
+};
+export default App;
+```
+
+```c++
+// C++ + LibTorch 2026 Example
+#include <torch/torch.h>
+int main(){
+  auto tensor = torch::rand({3,3});
+  std::cout << tensor << std::endl;
+}
+```
+
+```shell
+2026: Building AI for Health & Agriculture.
 ```
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
