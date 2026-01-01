@@ -23,9 +23,9 @@
 
 **Tinashe Crispen Garidzira** (**Crispen Gari**) is a software developer and AI [`Researcher`](https://scholar.google.com/citations?user=NlqEWgUAAAAJ&hl=en) focused on mobile health (mHealth), mobile agriculture (mAgric), and intelligent systems. With a strong background in deep learning, machine learning, and full‑stack development, he builds practical AI‑powered tools that improve real‑world decision‑making. He is the creator of [`dataloom`](https://dataloom-py.readthedocs.io/en/latest/) and [`helperfns`](https://helperfns.readthedocs.io/en/stable/index.html), and continues to contribute to open‑source AI tools and research. His 2026 focus areas include:
 
-- [x] 🧬 AI for mHealth (disease detection, patient monitoring, telemedicine models)
-- [x] 🌱 AI for mAgric (crop health analysis, yield prediction, pest classification)
-- [x] 📱 Mobile & cross‑platform development (React Native, Flutter, web dashboards)
+- [x] 🧬 AI for mHealth
+- [x] 🌱 AI for mAgric
+- [x] 📱 Mobile & cross‑platform development
 - [x] 🧠 Deep Learning (DL) & ML research
 
 <p align="center">
